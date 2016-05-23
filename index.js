@@ -1,9 +1,8 @@
 /* @flow */
-import React from 'react'
+import React, { PropTypes } from 'react'
 
 import {
   View,
-  PropTypes,
   Platform,
 } from 'react-native';
 import { StatusBarEnhanced } from './components/StatusBarEnhanced'
